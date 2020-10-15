@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 
+import 'homepageCovidNews.dart';
+
 void main() {
   runApp(MyApp());
 }
@@ -36,19 +38,19 @@ class SplashLogo  extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new  SplashScreen (
-      seconds: 14,
+      seconds: 5,
       navigateAfterSeconds: MainDashboard(),
-      title: new Text('Welcome To Public Emergency',
+      title: new Text('Welcome To Public Emergency(Mandalay)',
         style: new TextStyle(
           fontWeight: FontWeight.bold,
-          fontSize: 20.0
+          fontSize: 10.0
         ),
       ),
-       image: new Image.network('https://flutter.io/images/catalog-widget-placeholder.png'),
+       image: new Image.asset("assets/logoApp.jpg"),
       // backgroundGradient: new LinearGradient(colors: [Colors.cyan, Colors.blue], begin: Alignment.topLeft, end: Alignment.bottomRight),
       backgroundColor: Colors.white,
       styleTextUnderTheLoader: new TextStyle(),
-      photoSize: 100.0,
+      photoSize: 50.0,
       onClick: ()=>print("Hello Public"),
       loaderColor: Colors.red,
       
@@ -63,25 +65,37 @@ class MainDashboard extends StatefulWidget {
 
 class _MainDashboardState extends State<MainDashboard> {
   final list_item =[
+   
     {
-      "name":"Image 1",
-      "pic": "pharmacy2.jpg",
-      "price":"70"
+      "name":"Covid News(Mandalay Division)",
+      "pic": "covid.jpg",
+      "price":"60"
     },
     {
-      "name":"Image 2",
+      "name":"Foundation For Help",
+      "pic": "foundation.jpg",
+      "price":"60"
+    },
+    {
+      "name":"Emergency Call List",
+      "pic": "emergency.jpg",
+      "price":"60"
+    },
+    
+    {
+      "name":"Hospital List",
       "pic": "hospital.jpg",
       "price":"80"
     },
     {
-      "name":"Image 3",
+      "name":"Volunteer Work",
       "pic": "volunteer.png",
       "price":"60"
     },
-    {
-      "name":"Image 4",
-      "pic": "covid.jpg",
-      "price":"60"
+     {
+      "name":"PharmacyShop",
+      "pic": "pharmacy2.jpg",
+      "price":"70"
     },
  
   ];
@@ -135,15 +149,36 @@ class Product extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.all(20.0),
+      padding: const EdgeInsets.all(10.0),
       child: Container(
-        child: Card(
-          child: Hero(tag: product_name, 
-          child:InkWell(
-            onTap:(){},
-            child:GridTile(child: Image.asset("assets/"+ product_pic),)
-          )),
-          
+       
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Card(
+              child: Hero(tag: product_name, 
+              child:InkWell(
+                onTap:(){
+                  Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => HomeNewsForCovid()));
+                  
+                },
+                child:GridTile(
+                  
+                child: Image.asset("assets/"+ product_pic,
+                
+                
+                ),
+                )
+              )),
+              
+            ),
+            Padding(
+              padding: const EdgeInsets.all(5.0),
+              child: Text(product_name,style: TextStyle(fontSize:10,color:Colors.deepOrangeAccent),),
+            )
+          ],
         ),
          decoration: BoxDecoration(
     color: Colors.white,

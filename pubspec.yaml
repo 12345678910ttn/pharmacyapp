@@ -51,6 +51,10 @@ flutter:
     - assets/volunteer.png
     - assets/hospital.jpg
     - assets/covid.jpg
+    - assets/logoApp.jpg
+    - assets/foundation.jpg
+    - assets/emergency.jpg
+    - assets/res/EffectedCase.json
  
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -64,7 +68,29 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
+fonts:
+  - family: Pyidaungsu
+      fonts:
+        - asset: assets/font/Pyidaungsu-Regular.ttf
+        - asset: assets/font/Pyidaungsu-Bold.ttf
+          style: italic
+    - family: Tahoma
+      fonts:
+        - asset: assets/font/Tahoma-r.ttf
+        - asset: assets/font/TAHOMAB0.ttf
+          weight: 700
+    - family: Ms
+      fonts:
+        - asset: assets/font/micross.ttf
+          weight: 500
+    - family: Ca
+      fonts:
+        - asset: assets/font/Calrendo.ttf
+          weight: 500
+    - family: Cu
+      fonts:
+        - asset: assets/font/Century.ttf
+          weight: 500
   #   - family: Schyler
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
