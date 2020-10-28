@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
+import 'Covid/homepageForCovid19.dart';
+import 'package:publicpharmacyapp/Covid/covidTabView.dart';
 
-import 'homepageCovidNews.dart';
+//import 'homepageCovidNews.dart';
 
 void main() {
   runApp(MyApp());
@@ -159,9 +161,13 @@ class Product extends StatelessWidget {
               child: Hero(tag: product_name, 
               child:InkWell(
                 onTap:(){
-                  Navigator.push(
+                 /*  Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => HomeNewsForCovid()));
+              MaterialPageRoute(builder: (context) => HomeNewsForCovid())); */
+
+               Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => TabBarDemo()));
                   
                 },
                 child:GridTile(

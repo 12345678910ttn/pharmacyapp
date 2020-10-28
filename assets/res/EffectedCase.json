@@ -1,6 +1,6 @@
 [{
     "date":"15-10-2020",
-    "townshipname":"ေအာင္ေျမသာဇံ",
+    "townshipname":"အောင်ြမသောဇံ",
     "effectedCount":1
 },
 {
@@ -22,5 +22,31 @@
     "date":"15-10-2020",
     "townshipname":"TherSi",
     "effectedCount":1
+},
+ {
+    "date":"15-10-2020",
+    "townshipname":"အောင်ြမသောဇံ",
+    "effectedCount":1
+},
+{
+    "date":"16-10-2020",
+    "townshipname":"Chan Aye TharZan",
+    "effectedCount":5
+},
+{
+    "date":"16-10-2020",
+    "townshipname":"Maha Aung Myae",
+    "effectedCount":6
+},
+{
+    "date":"17-10-2020",
+    "townshipname":"AMARAPURA",
+    "effectedCount":1
+},
+{
+    "date":"17-10-2020",
+    "townshipname":"TherSi",
+    "effectedCount":1
 }
+ 
  ]
