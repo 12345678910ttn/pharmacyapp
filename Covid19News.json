@@ -4,63 +4,63 @@
     "township" :[
         {
         "townshipname" : "မဟာအောင်မြေ",
-        "effectedcount": ၁၇
+        "effectedcount": 17
         },
         {
         "townshipname" : "ချမ်းအေးသာစံ",
-        "effectedcount": ၁၆
+        "effectedcount": 16
         },
         {
         "townshipname" : "အောင်မြေသာဇံ",
-        "effectedcount": ၉
+        "effectedcount": 9
         },
         {
         "townshipname" : "ညောင်ဦး",
-        "effectedcount": ၇
+        "effectedcount": 7
         },
          {
         "townshipname" : "ပြည်ကြီးတံခွန်",
-        "effectedcount": ၅
+        "effectedcount": 5
         },
         {
         "townshipname" : "တောင်သာ",
-        "effectedcount": ၂
+        "effectedcount": 2
         },
         {
         "townshipname" : "စဉ့်ကိုင်",
-        "effectedcount": ၂
+        "effectedcount": 2
         },
         {
         "townshipname" : "ပုသိမ်ကြီး",
-        "effectedcount": ၂
+        "effectedcount": 2
         },
         {
         "townshipname" : "အမရပူရ",
-        "effectedcount": ၂
+        "effectedcount": 2
         },
          {
         "townshipname" : "မြစ်သား",
-        "effectedcount": ၂
+        "effectedcount": 2
         },
         {
         "townshipname" : "မိတ္ထီလာ",
-        "effectedcount": ၁
+        "effectedcount": 1
         },
         {
         "townshipname" : "ပျော်ဖွယ်",
-        "effectedcount": ၁
+        "effectedcount": 1
         },
         {
         "townshipname" : "မလှိုင်",
-        "effectedcount": ၁
+        "effectedcount": 1
         },
         {
         "townshipname" : "တံတားဦး",
-        "effectedcount": ၁
+        "effectedcount": 1
         },
          {
         "townshipname" : "မြင်းခြံ",
-        "effectedcount": ၁
+        "effectedcount": 1
         }
      
     ]
