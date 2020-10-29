@@ -1,0 +1,116 @@
+[
+    {
+    "date":"19-10-2020",
+    "township" :[
+        {
+        "townshipname" : "AungMyaeTharZan",
+        "effectedcount": 10
+        },
+        {
+        "townshipname" : "MahaAungMyae",
+        "effectedcount": 10
+        },
+        {
+        "townshipname" : "MahaAungMyae",
+        "effectedcount": 120
+        },
+        {
+        "townshipname" : "ChanAyeTharZan",
+        "effectedcount": 5
+        },
+         {
+        "townshipname" : "Amarapura",
+        "effectedcount": 3
+        }
+     
+    ]
+  
+} ,
+    
+    {
+    "date":"15-10-2020",
+    "township" :[
+        {
+        "townshipname" : "AungMyaeTharZan",
+        "effectedcount": 1
+        },
+        {
+        "townshipname" : "MahaAungMyae",
+        "effectedcount": 3
+        },
+        {
+        "townshipname" : "PyiGyiMyatMhan",
+        "effectedcount": 5
+        },
+         {
+        "townshipname" : "Amarapura",
+        "effectedcount": 3
+        }
+    ]
+  
+},
+ {
+    "date":"16-10-2020",
+    "township" :[
+        {
+        "townshipname" : "AungMyaeTharZan",
+        "effectedcount": 1
+        },
+        {
+        "townshipname" : "MahaAungMyae",
+        "effectedcount": 3
+        },
+        {
+        "townshipname" : "PyiGyiMyatMhan",
+        "effectedcount": 5
+        },
+         {
+        "townshipname" : "Amarapura",
+        "effectedcount": 3
+        }
+    ]
+  
+} ,
+ {
+    "date":"17-10-2020",
+    "township" :[
+        {
+        "townshipname" : "AungMyaeTharZan",
+        "effectedcount": 10
+        },
+        {
+        "townshipname" : "MahaAungMyae",
+        "effectedcount": 30
+        }
+     
+    ]
+  
+},
+ {
+    "date":"18-10-2020",
+    "township" :[
+        {
+        "townshipname" : "AungMyaeTharZan",
+        "effectedcount": 10
+        },
+        {
+        "townshipname" : "MahaAungMyae",
+        "effectedcount": 30
+        },
+        {
+        "townshipname" : "MahaAungMyae",
+        "effectedcount": 130
+        },
+        {
+        "townshipname" : "ChanAyeTharZan",
+        "effectedcount": 5
+        },
+         {
+        "townshipname" : "Amarapura",
+        "effectedcount": 3
+        }
+     
+    ]
+  
+} 
+ ]
