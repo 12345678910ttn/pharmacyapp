@@ -1,116 +1,70 @@
 [
     {
-    "date":"19-10-2020",
+    "date":"29-10-2020",
     "township" :[
+        {
+        "townshipname" : "မဟာအောင်မြေ",
+        "effectedcount": ၁၇
+        },
+        {
+        "townshipname" : "ချမ်းအေးသာစံ",
+        "effectedcount": ၁၆
+        },
         {
         "townshipname" : "အောင်မြေသာဇံ",
-        "effectedcount": 35
+        "effectedcount": ၉
         },
         {
-        "townshipname" : "MahaAungMyae",
-        "effectedcount": 20
-        },
-        {
-        "townshipname" : "MahaAungMyae",
-        "effectedcount": 130
-        },
-        {
-        "townshipname" : "ChanAyeTharZan",
-        "effectedcount": 50
+        "townshipname" : "ညောင်ဦး",
+        "effectedcount": ၇
         },
          {
-        "townshipname" : "Amarapura",
-        "effectedcount": 50
+        "townshipname" : "ပြည်ကြီးတံခွန်",
+        "effectedcount": ၅
+        },
+        {
+        "townshipname" : "တောင်သာ",
+        "effectedcount": ၂
+        },
+        {
+        "townshipname" : "စဉ့်ကိုင်",
+        "effectedcount": ၂
+        },
+        {
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": ၂
+        },
+        {
+        "townshipname" : "အမရပူရ",
+        "effectedcount": ၂
+        },
+         {
+        "townshipname" : "မြစ်သား",
+        "effectedcount": ၂
+        },
+        {
+        "townshipname" : "မိတ္ထီလာ",
+        "effectedcount": ၁
+        },
+        {
+        "townshipname" : "ပျော်ဖွယ်",
+        "effectedcount": ၁
+        },
+        {
+        "townshipname" : "မလှိုင်",
+        "effectedcount": ၁
+        },
+        {
+        "townshipname" : "တံတားဦး",
+        "effectedcount": ၁
+        },
+         {
+        "townshipname" : "မြင်းခြံ",
+        "effectedcount": ၁
         }
      
     ]
   
-} ,
-    
-    {
-    "date":"15-10-2020",
-    "township" :[
-        {
-        "townshipname" : "AungMyaeTharZan",
-        "effectedcount": 1
-        },
-        {
-        "townshipname" : "MahaAungMyae",
-        "effectedcount": 3
-        },
-        {
-        "townshipname" : "PyiGyiMyatMhan",
-        "effectedcount": 5
-        },
-         {
-        "townshipname" : "Amarapura",
-        "effectedcount": 3
-        }
-    ]
-  
-},
- {
-    "date":"16-10-2020",
-    "township" :[
-        {
-        "townshipname" : "AungMyaeTharZan",
-        "effectedcount": 1
-        },
-        {
-        "townshipname" : "MahaAungMyae",
-        "effectedcount": 3
-        },
-        {
-        "townshipname" : "PyiGyiMyatMhan",
-        "effectedcount": 5
-        },
-         {
-        "townshipname" : "Amarapura",
-        "effectedcount": 3
-        }
-    ]
-  
-} ,
- {
-    "date":"17-10-2020",
-    "township" :[
-        {
-        "townshipname" : "AungMyaeTharZan",
-        "effectedcount": 10
-        },
-        {
-        "townshipname" : "MahaAungMyae",
-        "effectedcount": 30
-        }
-     
-    ]
-  
-},
- {
-    "date":"18-10-2020",
-    "township" :[
-        {
-        "townshipname" : "AungMyaeTharZan",
-        "effectedcount": 10
-        },
-        {
-        "townshipname" : "MahaAungMyae",
-        "effectedcount": 30
-        },
-        {
-        "townshipname" : "MahaAungMyae",
-        "effectedcount": 130
-        },
-        {
-        "townshipname" : "ChanAyeTharZan",
-        "effectedcount": 5
-        },
-         {
-        "townshipname" : "Amarapura",
-        "effectedcount": 3
-        }
-     
-    ]
-  
-} 
+}   
+ 
  ]
