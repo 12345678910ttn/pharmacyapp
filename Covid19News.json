@@ -300,7 +300,7 @@
        {
             "townshipname" : "တောင်သာ",
             "effectedcount": 13
-        } 
+        }, 
         {
             "townshipname" : "ချမ်းအေးသာစံ",
             "effectedcount": 13
@@ -320,7 +320,7 @@
        {  
             "townshipname" : "ပြည်ကြီးတံခွန်",
             "effectedcount": 3
-
+       },
         {
             "townshipname" : "နွားထိုးကြီး",
             "effectedcount": 1  
