@@ -285,6 +285,55 @@
             "effectedcount": 1 
         }            
     ] 
+},
+{
+    "date":"25-10-2020",
+    "township" :[
+        {
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 21
+        },
+       {
+            "townshipname" : "အောင်မြေသာစံ",
+            "effectedcount": 15
+        },
+       {
+            "townshipname" : "တောင်သာ",
+            "effectedcount": 13
+        } 
+        {
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 13
+        },       
+        {
+            "townshipname" : "အမရပူရ",
+            "effectedcount": 9
+        },
+        {
+            "townshipname" : "ချမ်းမြသာစည်",
+            "effectedcount": 5
+        },
+        {
+            "townshipname" : "မြင်းခြံ",
+            "effectedcount": 5
+        },
+       {  
+            "townshipname" : "ပြည်ကြီးတံခွန်",
+            "effectedcount": 3
+
+        {
+            "townshipname" : "နွားထိုးကြီး",
+            "effectedcount": 1  
+        },
+        {
+            "townshipname" : "သာစည်",
+            "effectedcount": 1
+        },
+        {
+            "townshipname" : "မိုးကုတ်",
+            "effectedcount": 1
+        },                   
+    ] 
 }
  
  ]
