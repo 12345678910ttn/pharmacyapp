@@ -192,10 +192,55 @@
         {
         "townshipname" : "ပျော်ဘွယ်",
         "effectedcount": 1
-        }               
-     
-    ]
-  
+        }      
+    ] 
+},
+{
+    "date":"27-10-2020",
+    "township" :[
+        {
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 25
+        },
+        {
+            "townshipname" : "အောင်မြေသာစံ",
+            "effectedcount": 12
+        },
+        {
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 9
+        },
+        {
+            "townshipname" : "မိတ္ထီလာ",
+            "effectedcount": 3
+        },
+        {
+            "townshipname" : "ရမည်းသင်း",
+            "effectedcount": 3
+        },
+        {
+            "townshipname" : "မြင်းခြံ",
+            "effectedcount": 2
+        },
+        {
+            "townshipname" : "ညောင်ဦး",
+            "effectedcount": 1  
+        },
+        {
+            "townshipname" : "ပြင်ဦးလွင်",
+            "effectedcount": 1
+        },
+        {
+            "townshipname" : "စဉ့်ကိုင်",
+            "effectedcount": 1
+        },
+        {
+            "townshipname" : "တောင်သာ",
+            "effectedcount": 1 
+        }
+            
+    ]  
+
 }
  
  ]
