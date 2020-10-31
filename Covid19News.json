@@ -130,10 +130,72 @@
          {
         "townshipname" : "မြင်းခြံ",
         "effectedcount": 1
-        }
+        }     
+    ]  
+},
+  {
+    "date":"28-10-2020",
+    "township" :[
+        {
+            "townshipname" : "မိတ္ထီလာ",
+            "effectedcount": 10
+        },
+        {
+            "townshipname" : "အမရပူရ",
+            "effectedcount": 6
+        },
+        {
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 6
+        },
+        {
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 5
+        },
+        {
+            "townshipname" : "ပြည်ကြီးတံခွန်",
+            "effectedcount": 5
+        },
+        {
+            "townshipname" : "ကျောက်ပန်းတောင်း",
+            "effectedcount": 4
+        },
+        {
+            "townshipname" : "ရမည်းသင်း",
+            "effectedcount": 3
+        },
+        {
+            "townshipname" : "မြင်းခြံ",
+            "effectedcount": 3
+        },
+        {
+            "townshipname" : "တံတားဦး",
+            "effectedcount": 2
+        },
+        {
+            "townshipname" : "အောင်မြေသာဇံ",
+            "effectedcount": 1
+        },
+        {
+            "townshipname" : "သာစည်",
+            "effectedcount": 1
+        },
+        {
+            "townshipname" : "ပြင်ဦးလွင်",
+            "effectedcount": 1
+            },
+        
+        {
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 1
+        },
+        {
+        "townshipname" : "ပျော်ဘွယ်",
+        "effectedcount": 1
+        }               
      
     ]
   
-}  
+}
  
  ]
