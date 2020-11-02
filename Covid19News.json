@@ -1,5 +1,63 @@
 [
     {
+    "date":"1-11-2020",
+    "township" :[
+        {
+        "townshipname" : "ချမ်းအေးသာစံ",
+        "effectedcount": 32
+        },
+        {
+        "townshipname" : "မဟာအောင်မြေ",
+        "effectedcount": 26
+        },
+        {
+        "townshipname" : "အမရပူရ",
+        "effectedcount": 7
+        },
+        {
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 4
+        },
+        {
+         "townshipname" : "သာစည်",
+         "effectedcount": 4
+        },
+        {
+        "townshipname" : "ချမ်းမြသာစည်",
+        "effectedcount": 3
+        },
+        {
+        "townshipname" : "အောင်မြေသာစံ",
+        "effectedcount": 3
+        },
+        {
+        "townshipname" : "မိတ္ထီလာ",
+        "effectedcount": 2
+        },
+        {
+        "townshipname" : "ပြည်ကြီးတံခွန်",
+        "effectedcount": 2
+        },
+        {
+        "townshipname" : "မတ္တရာ",
+        "effectedcount": 1
+        },
+        {
+        "townshipname" : "ပြင်ဦးလွင်",
+        "effectedcount": 1
+        },
+        {
+        "townshipname" : "တံတားဦး",
+        "effectedcount": 1
+        },
+        {
+        "townshipname" : "တောင်သာ",
+        "effectedcount": 1
+        }
+    
+        ]
+    },
+    {
     "date":"31-10-2020",
     "township" :[
         {
@@ -132,7 +190,7 @@
         "townshipname" : "ညောင်ဦး",
         "effectedcount": 7
         },
-         {
+        {
         "townshipname" : "ပြည်ကြီးတံခွန်",
         "effectedcount": 5
         },
@@ -228,11 +286,10 @@
         {
             "townshipname" : "ပြင်ဦးလွင်",
             "effectedcount": 1
-            },
-        
+        },
         {
-        "townshipname" : "ပုသိမ်ကြီး",
-        "effectedcount": 1
+         "townshipname" : "ပုသိမ်ကြီး",
+         "effectedcount": 1
         },
         {
         "townshipname" : "ပျော်ဘွယ်",
@@ -299,8 +356,7 @@
         {
             "townshipname" : "အမရပူရ",
             "effectedcount": 4
-        },
-        
+        },        
         {
             "townshipname" : "ပျော်ဘွယ်",
             "effectedcount": 1
