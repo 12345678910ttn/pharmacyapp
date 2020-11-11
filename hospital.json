@@ -1,0 +1,31 @@
+[
+    {
+    "name":" CITY HOSPITAL",
+    "phoneno" : "09797008700",
+    "address" : "TheikPan(101)Road,Between 65 and 66,http://www.cityhospitalmandalay.com/",
+    "image" : "city.jpg" 
+  
+},
+    {
+    "name":"Pan Hlaing HOSPITAL",
+    "phoneno" : "024069203",
+    "address" : "No(97),73 Road(Between 31 and 32),ChanAyeTharZan",
+    "image" : "panhlaing.jpg" 
+  
+},
+
+    {
+    "name":"PALACE HOSPITAL",
+    "phoneno" : "094060443,4060445,094060446",
+    "address" : "71 Road Between 28 and 29",
+    "image" : "palace.jpg" 
+  
+},
+{
+    "name":"NYEIN HOSPITAL",
+    "phoneno" : "094065460,094032050",
+    "address" : "81 Road Between",
+    "image" : "nyein.jpg" 
+  
+}
+ ]

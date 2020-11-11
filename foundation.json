@@ -1,0 +1,31 @@
+[
+    {
+    "name":" AYA Foundation",
+    "phoneno" : "0988760750",
+    "address" : "https://ayeyarwadyfoundation.org/",
+    "image" : "aya.jpg" 
+  
+},
+    {
+    "name":"Youth Social Force Foundation",
+    "phoneno" : "09954937923",
+    "address" : "Pyi Gyi Tagon Township,Mandalay",
+    "image" : "youth.jpg" 
+  
+},
+
+    {
+    "name":"Mandalay Volunteers Groups",
+    "phoneno" : "09964567110",
+    "address" : "Mandalay",
+    "image" : "mvg.jpg" 
+  
+},
+{
+    "name":"YGW Orphanage",
+    "phoneno" : "09 4026 95 999,09 400900277",
+    "address" : "Pyi Gyi Tagon,setmu(2),Kanaung Road",
+    "image" : "ygw.jpg" 
+  
+}
+ ]

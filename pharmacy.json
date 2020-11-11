@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+    "name":" GOOD CHOICE PHARMACY",
+    "phoneno" : "09440005151",
+    "address" : "27 Street,Between 63 and 64,Mandalay",
+    "image" : "goodchoice.jpg" 
+  
+},
+    {
+        "id":"2",
+    "name":"Myint Mo Oo",
+    "phoneno" : "092017102,024066738",
+    "address" : "Corner Of 30 and 75 Road ",
+    "image" : "mmo.jpg" 
+  
+},
+    {
+        "id":"3",
+    "name":"Ko Han Tin + Ma Tin Tin Aung",
+    "phoneno" : "022844101",
+    "address" : "No(143),75 Street,Between 27 and 28,Mandalay",
+    "image" : "ht.jpg" 
+  
+}
+ ]

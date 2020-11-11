@@ -1,0 +1,24 @@
+[
+    {
+    "townshipname":"Chan Mya Thar Si",
+    "phone" : "09260981053,09886253924",
+    "location" : "(107)Road,Between 55and56,AungTharYarZay(107)Road,Between 55and56,AungTharYarZay",
+    "opentime" : "Morning 9:00 AM- 11:00AM" 
+  
+},
+    {
+   "townshipname":"AungMyaeTharZan",
+    "phone" : "09260981054,09886253925",
+    "location" : "(12)Road,Between 75and76,AungTharYarZay",
+    "opentime" : "Morning 9:00 AM- 11:00AM" 
+  
+},
+
+    {
+    "townshipname":"ChanAyeTharSan",
+    "phone" : "09886253923",
+    "location" : "(62)Road,Between 33and34",
+    "opentime" : "Noon 2:00 PM- 4:00PM" 
+  
+}
+ ]
