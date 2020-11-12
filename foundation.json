@@ -1,6 +1,6 @@
 [
     {
-    "name":" AYA Foundation",
+    "name":" AYA ဖောင်ဒေးရှင်း",
     "phoneno" : "0988760750",
     "address" : "https://ayeyarwadyfoundation.org/",
     "image" : "aya.jpg" 
@@ -9,7 +9,7 @@
     {
     "name":"Youth Social Force Foundation",
     "phoneno" : "09954937923",
-    "address" : "Pyi Gyi Tagon Township,Mandalay",
+    "address" : "ပြည်ကြီးတံခွန်မြို့နယ်၊ မန္တလေးမြို့",
     "image" : "youth.jpg" 
   
 },
@@ -17,15 +17,22 @@
     {
     "name":"Mandalay Volunteers Groups",
     "phoneno" : "09964567110",
-    "address" : "Mandalay",
+    "address" : "မန္တလေးမြို့",
     "image" : "mvg.jpg" 
   
 },
 {
-    "name":"YGW Orphanage",
+    "name":"YGW မိဘမဲ့ကျောင်း",
     "phoneno" : "09 4026 95 999,09 400900277",
-    "address" : "Pyi Gyi Tagon,setmu(2),Kanaung Road",
+    "address" : "ပြည်ကြီးတံခွန်မြို့နယ်၊ စက်မှု(၂)၊ ကနောင်မင်းသားကြီးလမ်း",
     "image" : "ygw.jpg" 
+  
+},
+    {
+    "name":"YGW ခိုကိုးရာမဲ့ ဘိုးဘွားများစောင့်ရှောက်ရေးကျောင်း",
+    "phoneno" : "09 91021222,09 91037520",
+    "address" : "မန္တလေးတိုင်းဒေသကြီး၊ ပုသိမ်ကြီးမြို့နယ်၊ ရေကြည်ကျေးရွာ၊ ရေတံခွန်တောင်အထက်၊ ထူးမတောင်",
+    "image" : "noimage" 
   
 }
  ]
