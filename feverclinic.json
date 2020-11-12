@@ -1,24 +1,32 @@
 [
     {
-    "townshipname":"Chan Mya Thar Si",
+    "townshipname":"ချမ်းမြသာစည်မြို့နယ်",
     "phone" : "09260981053,09886253924",
-    "location" : "(107)Road,Between 55and56,AungTharYarZay(107)Road,Between 55and56,AungTharYarZay",
-    "opentime" : "Morning 9:00 AM- 11:00AM" 
+    "location" : "(၁၀၇)လမ်း၊ (၅၅x၅၆) လမ်းကြား၊ အောင်သာယာဈေးအရှေ့၊ ထွန်တုံးကျန်းမာရေးဌာနခွဲ",
+    "opentime" : "နံနက်(၉း၀၀)နာရီ မှ(၁၁း၀၀)နာရီ" 
   
 },
     {
-   "townshipname":"AungMyaeTharZan",
+   "townshipname":"အောင်မြေသာစံမြို့နယ်",
     "phone" : "09260981054,09886253925",
-    "location" : "(12)Road,Between 75and76,AungTharYarZay",
-    "opentime" : "Morning 9:00 AM- 11:00AM" 
+    "location" : "(၁၂)လမ်း၊ (၇၅x၇၆)လမ်းကြား၊ အောင်မြေသာစံမြို့နယ်၊ ပြည်သူ့ကျန်းမာရေးဦးစီးဌာနရုံး",
+    "opentime" : "နံနက်(၉း၀၀)နာရီ မှ(၁၁း၀၀)နာရီ" 
   
 },
 
     {
-    "townshipname":"ChanAyeTharSan",
+    "townshipname":"ပြည်ကြီးတံခွန်မြို့နယ်",
+    "phone" : "",
+    "location" : "(၇၈)လမ်း၊ လေးမျက်နှာဘုရားနှင့်တံခွန်တိုင်အဝိုင်းကြား၊ တံခွန်တိုင်",
+    "opentime" : "ပြန်လည်ဖွင့်လှစ်ရန်စီစဉ်ဆဲ" 
+  
+},
+    
+    {
+    "townshipname":"ချမ်းအေးသာစံမြို့နယ်",
     "phone" : "09886253923",
-    "location" : "(62)Road,Between 33and34",
-    "opentime" : "Noon 2:00 PM- 4:00PM" 
+    "location" : "(၆၂)လမ်း၊ (၃၃x၃၄)လမ်းကြား၊ ဗြဟ္မစိုရ်လူမှုကူညီရေးဝင်းအတွင်း",
+    "opentime" : "နေ့လည်(၂း၀၀)နာရီမှ (၄း၀၀)နာရီ" 
   
 }
  ]
