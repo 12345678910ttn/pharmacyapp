@@ -1,5 +1,54 @@
 [
     {
+    "name":"Hotel ShwePyiThar",
+    "phoneno" : "09954166817",
+    "address" : "No.B-8,Pyi Oo Lwin Road,Between 31 and 32",
+    "image" : "spt.jpg" 
+  
+},
+    {
+    "name":"Royal Mingalar Hotel",
+    "phoneno" : "09785343355",
+    "address" : "Corner of 73 and Ngu Shwe War,Room Price:40,000-50,000(1 person)",
+    "image" : "mingalar.jpg" 
+  
+},
+    {
+    "name":"Ayarwaddy River View Hotel",
+    "phoneno" : "024064945,024064946,024072373",
+    "address" : "Strand Road,Between 22 and 23,Room Price:40,000(one person):45,000(two persons)",
+    "image" : "mingalar.jpg" 
+  
+},
+    {
+    "name":"Eastern Palace Hotel",
+    "phoneno" : "09783507473",
+    "address" : "19 Street,Between 57 and 58,Room Price:45,000(two persons)",
+    "image" : "eastern.jpg" 
+  
+},
+     {
+    "name":"Perfect Hotel",
+    "phoneno" : "09785999411",
+    "address" : "Corner of Theikpan and 59,Room Price:40,000(two persons)(+5000 For meals)",
+    "image" : "perfect.jpg" 
+  
+},
+     {
+    "name":"Hotel  mandalay",
+    "phoneno" : "024071585",
+    "address" : "No.652,78 Road,Between 37 and 38,Room Price:40,000(two persons)(+5000 For meals)",
+    "image" : "hotelmandalay.jpg" 
+  
+},
+    {
+    "name":"Hotel  Hazel",
+    "phoneno" : "09766549242,022837426,022837423",
+    "address" : "53 Road,Between 36 and 37,Room Price:No Contact",
+    "image" : "hazel.jpg" 
+  
+},
+    {
     "name":" CITY HOSPITAL",
     "phoneno" : "09797008700",
     "address" : "TheikPan(101)Road,Between 65 and 66,http://www.cityhospitalmandalay.com/",
