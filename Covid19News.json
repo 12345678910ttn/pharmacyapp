@@ -1,5 +1,95 @@
 [
 	{  
+     "date":"4-12-2020",
+    "township" :[
+	{
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 41
+         },
+	{
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 38
+        }, 
+	{
+            "townshipname" : "အမရပူရ",
+            "effectedcount": 37
+        }, 
+	{
+            "townshipname" : "အောင်မြေသာစံ",
+            "effectedcount": 36
+        },
+	{
+            "townshipname" : "ချမ်းမြသာစည်",
+            "effectedcount": 25
+        },
+	{
+        "townshipname" : "စဉ့်ကိုင်",
+        "effectedcount": 19
+        },
+	{
+            "townshipname" : "ပြည်ကြီးတံခွန်",
+            "effectedcount": 12
+        },
+	{
+        "townshipname" : "ပြင်ဦးလွင်",
+        "effectedcount": 12
+        }, 
+	{
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 7
+        },
+	{
+        "townshipname" : "နွားထိုးကြီး",
+        "effectedcount": 5
+        }, 
+	{
+            "townshipname" : "၀မ်းတွင်း",
+            "effectedcount": 3
+        },
+	{
+        "townshipname" : "မြင်းခြံ",
+        "effectedcount": 2
+        },
+	{
+        "townshipname" : "ညောင်ဦး",
+        "effectedcount": 2
+        },
+	{
+        "townshipname" : "မြစ်သား",
+        "effectedcount": 2
+        },
+	{
+          "townshipname" : "ကျောက်ဆည်",
+          "effectedcount": 2
+        },
+	{
+        "townshipname" : "ငါန်းဇွန်",
+        "effectedcount": 2
+        },    
+	{
+        "townshipname" : "တံတားဦး",
+        "effectedcount": 2
+        },
+	{
+         "townshipname" : "မတ္တရာ",
+         "effectedcount": 1
+        },
+	{
+        "townshipname" : "မလှိုင်",
+        "effectedcount": 1
+        },
+	{
+            "townshipname" : "သပိတ်ကျင်း",
+            "effectedcount": 1
+        },
+	{
+         "townshipname" : "သာစည်",
+         "effectedcount": 1
+        }    
+	]
+    },
+	
+	{  
      "date":"3-12-2020",
     "township" :[
 	    {
@@ -975,10 +1065,6 @@
         },
 	    {
         "townshipname" : "မလှိုင်",
-        "effectedcount": 1
-        },
-	    {
-        "townshipname" : "ပျော်ဘွယ်",
         "effectedcount": 1
         },
 	    {
