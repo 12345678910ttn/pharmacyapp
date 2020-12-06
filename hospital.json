@@ -21,6 +21,13 @@
   
 },
     {
+    "name":"Hotel  Hazel",
+    "phoneno" : "09766549242,022837426,022837423",
+    "address" : "53 Road,Between 36 and 37,Room Price:No Contact",
+    "image" : "hazel.jpg" 
+  
+},
+    {
     "name":"Eastern Palace Hotel",
     "phoneno" : "09783507473",
     "address" : "19 Street,Between 57 and 58,Room Price:45,000(two persons)",
@@ -34,6 +41,13 @@
     "image" : "perfect.jpg" 
   
 },
+    {
+    "name":"Great Wall Hotel",
+    "phoneno" : "",
+    "address" : "မန္တလေးမြို့",
+    "image" : "noimage" 
+  
+},
      {
     "name":"Hotel  mandalay",
     "phoneno" : "024071585",
@@ -42,10 +56,89 @@
   
 },
     {
-    "name":"Hotel  Hazel",
-    "phoneno" : "09766549242,022837426,022837423",
-    "address" : "53 Road,Between 36 and 37,Room Price:No Contact",
-    "image" : "hazel.jpg" 
+    "name":"မင်းသားကြီးဟိုတယ်",
+    "phoneno" : "",
+    "address" : "မန္တလေးမြို့",
+    "image" : "noimage" 
+  
+},
+{
+    "name":"မဟာနွယ်ဟိုတယ်",
+    "phoneno" : "",
+    "address" : "မန္တလေးမြို့",
+    "image" : "noimage" 
+  
+},
+{
+    "name":"ရွှေပိုးအိမ်ဟိုတယ်",
+    "phoneno" : "",
+    "address" : "ပုဂံမြို့",
+    "image" : "noimage" 
+  
+},
+
+    {
+    "name":"Lucky Seven Hotel",
+    "phoneno" : "",
+    "address" : "စဉ့်ကူးမြို့",
+    "image" : "noimage" 
+  
+},
+{
+    "name":"Hotel-99",
+    "phoneno" : "",
+    "address" : "ပြင်ဦးလွင်မြို့",
+    "image" : "noimage" 
+  
+}, 
+{
+    "name":"ပန်းလေပြေဟိုတယ်",
+    "phoneno" : "",
+    "address" : "မိတ္ထီလာမြို့",
+    "image" : "noimage" 
+  
+},
+    {
+    "name":"ဗလ(တည်းခိုခန်း)",
+    "phoneno" : "",
+    "address" : "မိတ္ထီလာမြို့",
+    "image" : "noimage" 
+  
+},
+{
+    "name":"အင်ပါယာ(တည်းခိုခန်း)",
+    "phoneno" : "",
+    "address" : "ပျော်ဘွယ်မြို့",
+    "image" : "noimage" 
+  
+}, 
+{
+    "name":"Ever Hotel",
+    "phoneno" : "",
+    "address" : "ကျောက်ဆည်မြို့",
+    "image" : "noimage" 
+  
+},
+
+    {
+    "name":"သဇင်နန်း(တည်းခိုခန်း)",
+    "phoneno" : "",
+    "address" : "ပျော်ဘွယ်မြို့",
+    "image" : "noimage" 
+  
+},
+{
+    "name":"ဧဒင်ဟိုတယ်",
+    "phoneno" : "",
+    "address" : "ညောင်ဦးမြို့",
+    "image" : "noimage" 
+  
+},
+    {
+    "name":"ကုမုဒြာဟိုတယ်",
+    "phoneno" : "",
+    "address" : "ညောင်ဦးမြို့",
+    "image" : "noimage" 
   
 },
     {
@@ -76,5 +169,5 @@
     "address" : "81 Road Between",
     "image" : "nyein.jpg" 
   
-}
+}    
  ]
