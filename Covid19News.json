@@ -1,5 +1,99 @@
 [
 	{  
+     "date":"13-12-2020",
+    "township" :[
+	    {
+            "townshipname" : "ချမ်းမြသာစည်",
+            "effectedcount": 95
+        },
+	{
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 56
+         },  
+	 {
+            "townshipname" : "အောင်မြေသာစံ",
+            "effectedcount": 54
+        },
+	{
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 38
+         },
+	 {
+            "townshipname" : "အမရပူရ",
+            "effectedcount": 29
+        },
+	{
+          "townshipname" : "ကျောက်ဆည်",
+          "effectedcount": 17
+        },
+	{
+            "townshipname" : "ပြည်ကြီးတံခွန်",
+            "effectedcount": 13
+        },
+	{
+        "townshipname" : "စဉ့်ကိုင်",
+        "effectedcount": 10
+        },
+	{
+        "townshipname" : "ပြင်ဦးလွင်",
+        "effectedcount": 9
+        }, 
+	{
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 8
+        },
+	{
+        "townshipname" : "မိတ္ထီလာ",
+        "effectedcount": 4		
+        },
+	{
+        "townshipname" : "တောင်သာ",
+        "effectedcount": 3
+        },
+	{
+        "townshipname" : "သပိတ်ကျင်း",
+        "effectedcount": 3
+        },
+	{
+        "townshipname" : "နွားထိုးကြီး",
+        "effectedcount": 3
+        },
+	{
+         "townshipname" : "မတ္တရာ",
+         "effectedcount": 2
+        },
+	{
+        "townshipname" : "မြင်းခြံ",
+        "effectedcount": 2
+        },
+	{
+        "townshipname" : "တံတားဦး",
+        "effectedcount": 1
+        },  
+	{
+        "townshipname" : "ကျောက်ပန်းတောင်း",
+        "effectedcount": 1
+        },
+	{
+        "townshipname" : "မြစ်သား",
+        "effectedcount": 1
+        },
+	{
+        "townshipname" : "ငါန်းဇွန်",
+        "effectedcount": 1
+        },
+	{
+        "townshipname" : "ပျော်ဘွယ်",
+        "effectedcount": 1
+        },
+	{
+            "townshipname" : "၀မ်းတွင်း",
+            "effectedcount": 1
+        }   
+	]
+    },
+	
+	{  
      "date":"12-12-2020",
     "township" :[
 	    {
