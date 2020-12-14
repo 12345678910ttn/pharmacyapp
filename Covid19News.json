@@ -1,5 +1,95 @@
 [
 	{  
+     "date":"14-12-2020",
+    "township" :[
+	    {
+            "townshipname" : "အောင်မြေသာစံ",
+            "effectedcount": 46
+         },
+	 {
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 45
+         },
+	 {
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 39
+         },
+	 {
+            "townshipname" : "ချမ်းမြသာစည်",
+            "effectedcount": 38
+         }, 
+	 {
+            "townshipname" : "အမရပူရ",
+            "effectedcount": 28
+        },
+	{
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 15
+        },
+	{
+            "townshipname" : "ပြည်ကြီးတံခွန်",
+            "effectedcount": 10
+        },
+	{
+        "townshipname" : "မြင်းခြံ",
+        "effectedcount": 10
+        },
+	{
+          "townshipname" : "ကျောက်ဆည်",
+          "effectedcount": 6
+        },
+	{
+        "townshipname" : "စဉ့်ကိုင်",
+        "effectedcount": 5
+        },
+	{
+        "townshipname" : "ငါန်းဇွန်",
+        "effectedcount": 5
+        },
+	{
+        "townshipname" : "ပြင်ဦးလွင်",
+        "effectedcount": 4
+        },
+	{
+        "townshipname" : "နွားထိုးကြီး",
+        "effectedcount": 3
+        },
+	{
+        "townshipname" : "မိုးကုတ်",
+        "effectedcount": 2
+        },
+	{
+            "townshipname" : "၀မ်းတွင်း",
+            "effectedcount": 2
+        },
+	{
+        "townshipname" : "တောင်သာ",
+        "effectedcount": 1
+        }, 
+	{
+           "townshipname" : "ညောင်ဦး",
+           "effectedcount": 1
+        },
+	{
+           "townshipname" : "ရမည်းသင်း",
+           "effectedcount": 1
+        },
+	{
+         "townshipname" : "တံတားဦး",
+         "effectedcount": 1
+        },  
+	{
+            "townshipname" : "ကျောက်ပန်းတောင်း",
+            "effectedcount": 1
+        },
+	{
+        "townshipname" : "မြစ်သား",
+        "effectedcount": 1
+        }    
+	]
+    },
+	
+	{  
      "date":"13-12-2020",
     "township" :[
 	    {
