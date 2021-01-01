@@ -1,5 +1,297 @@
 [
 	{  
+     "date":"1-1-2021",
+    "township" :[
+	    {
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 32
+        },
+	{
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 20
+         },
+	{
+            "townshipname" : "ပြည်ကြီးတံခွန်",
+            "effectedcount": 19
+        },
+	{	
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 18
+         },
+	{
+        "townshipname" : "မြင်းခြံ",
+        "effectedcount": 17
+        },
+	{
+            "townshipname" : "ချမ်းမြသာစည်",
+            "effectedcount": 17
+         },
+	{
+            "townshipname" : "အောင်မြေသာစံ",
+            "effectedcount": 14
+         },
+	{
+            "townshipname" : "အမရပူရ",
+            "effectedcount": 8
+        },
+	{
+          "townshipname" : "ကျောက်ဆည်",
+          "effectedcount": 6
+        },
+	{
+        "townshipname" : "မိတ္ထီလာ",
+        "effectedcount": 6
+        },
+	{
+        "townshipname" : "တံတားဦး",
+        "effectedcount": 4
+        },
+	{
+        "townshipname" : "ကျောက်ပန်းတောင်း",
+        "effectedcount": 4
+        },
+	{
+        "townshipname" : "စဉ့်ကိုင်",
+        "effectedcount": 3
+        },
+	{
+        "townshipname" : "မိုးကုတ်",
+        "effectedcount": 3
+        },
+	{
+        "townshipname" : "မြစ်သား",
+        "effectedcount": 2
+        },
+	{
+         "townshipname" : "မတ္တရာ",
+         "effectedcount": 1
+        },
+	{
+            "townshipname" : "သပိတ်ကျင်း",
+            "effectedcount": 1
+        }
+	]
+    },
+	
+	{  
+     "date":"31-12-2020",
+    "township" :[
+	    	{
+        "townshipname" : "စဉ့်ကိုင်",
+        "effectedcount": 9
+        },
+	{
+            "townshipname" : "ချမ်းမြသာစည်",
+            "effectedcount": 7
+         },
+	{
+        "townshipname" : "မြင်းခြံ",
+        "effectedcount": 7
+        }, 
+	{
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 5
+         },
+	{
+            "townshipname" : "အောင်မြေသာစံ",
+            "effectedcount": 4
+         },
+	{
+            "townshipname" : "ပြည်ကြီးတံခွန်",
+            "effectedcount": 3
+        },
+	{
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 3
+         },
+	{
+            "townshipname" : "အမရပူရ",
+            "effectedcount": 2
+        },
+	{
+        "townshipname" : "တံတားဦး",
+        "effectedcount": 2
+        },
+	{
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 1
+        },
+	{
+          "townshipname" : "ကျောက်ဆည်",
+          "effectedcount": 1
+        },
+	{
+           "townshipname" : "ညောင်ဦး",
+           "effectedcount": 1
+        },
+	{
+        "townshipname" : "နွားထိုးကြီး",
+        "effectedcount": 1
+        },
+	{
+        "townshipname" : "မိတ္ထီလာ",
+        "effectedcount": 1
+        },
+	{
+        "townshipname" : "ပြင်ဦးလွင်",
+        "effectedcount": 1
+        },
+	{
+        "townshipname" : "စဉ့်ကူး",
+        "effectedcount": 1
+        }	
+	]
+    },
+	
+	{  
+     "date":"30-12-2020",
+    "township" :[
+	    	{
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 23
+         },
+	{
+            "townshipname" : "ပြည်ကြီးတံခွန်",
+            "effectedcount": 21
+        },
+	{
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 20
+         },
+	 {
+            "townshipname" : "အောင်မြေသာစံ",
+            "effectedcount": 18
+         },
+	{
+            "townshipname" : "အမရပူရ",
+            "effectedcount": 17
+        },
+	{
+            "townshipname" : "ချမ်းမြသာစည်",
+            "effectedcount": 15
+         },
+	{
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 14
+        },
+	{
+        "townshipname" : "တောင်သာ",
+        "effectedcount": 3
+        },
+	{
+           "townshipname" : "ညောင်ဦး",
+           "effectedcount": 3
+        },
+	{
+          "townshipname" : "ကျောက်ဆည်",
+          "effectedcount": 2
+        },
+	{
+        "townshipname" : "မလှိုင်",
+        "effectedcount": 2
+        }, 
+	{
+        "townshipname" : "မြင်းခြံ",
+        "effectedcount": 2
+        },
+	{
+        "townshipname" : "မိတ္ထီလာ",
+        "effectedcount": 2
+        },
+	{
+        "townshipname" : "မြစ်သား",
+        "effectedcount": 2
+        },  
+	{
+         "townshipname" : "သာစည်",
+         "effectedcount": 2
+        },      
+	{
+        "townshipname" : "စဉ့်ကိုင်",
+        "effectedcount": 1
+        },
+	{
+        "townshipname" : "စဉ့်ကူး",
+        "effectedcount": 1
+        }	
+	]
+    },
+	
+	{  
+     "date":"29-12-2020",
+    "township" :[
+	    {
+            "townshipname" : "ချမ်းမြသာစည်",
+            "effectedcount": 34
+         },
+	{
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 24
+         },
+	 {
+            "townshipname" : "အောင်မြေသာစံ",
+            "effectedcount": 23
+         },
+	  {
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 23
+         },
+	{
+        "townshipname" : "မြင်းခြံ",
+        "effectedcount": 21
+        },  
+	{
+            "townshipname" : "ပြည်ကြီးတံခွန်",
+            "effectedcount": 19
+        },
+	{
+            "townshipname" : "အမရပူရ",
+            "effectedcount": 14
+        },
+	{
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 11
+        }, 
+	{
+        "townshipname" : "ကျောက်ပန်းတောင်း",
+        "effectedcount": 4
+        },
+	{
+        "townshipname" : "မိတ္ထီလာ",
+        "effectedcount": 3
+        },  
+	{
+        "townshipname" : "ပြင်ဦးလွင်",
+        "effectedcount": 2
+        },  
+	{
+            "townshipname" : "မိုးကုတ်",
+            "effectedcount": 1
+        },
+	{
+        "townshipname" : "ငါန်းဇွန်",
+        "effectedcount": 1
+        },
+	{
+            "townshipname" : "သပိတ်ကျင်း",
+            "effectedcount": 1
+        },
+	{
+        "townshipname" : "မြစ်သား",
+        "effectedcount": 1
+        }, 
+	{
+          "townshipname" : "ကျောက်ဆည်",
+          "effectedcount": 1
+        },
+	{
+         "townshipname" : "သာစည်",
+         "effectedcount": 1
+        }    
+	]
+    },
+	
+	{  
      "date":"28-12-2020",
     "township" :[
 	    {
