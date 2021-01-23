@@ -1,5 +1,51 @@
 [
 	{  
+     "date":"31-12-2020",
+    "township" :[
+	    {
+            "townshipname" : "ချမ်းအေးသာစံ",
+            "effectedcount": 20
+         },
+	{
+            "townshipname" : "မဟာအောင်မြေ",
+            "effectedcount": 21
+         },
+	{
+        "townshipname" : "မိုးကုတ်",
+        "effectedcount": 1
+        },
+	{
+        "townshipname" : "ပုသိမ်ကြီး",
+        "effectedcount": 8
+        },
+	{
+            "townshipname" : "အောင်မြေသာစံ",
+            "effectedcount": 31
+         },
+	{
+            "townshipname" : "ပြည်ကြီးတံခွန်",
+            "effectedcount": 12
+        },
+	{
+        "townshipname" : "မိတ္ထီလာ",
+        "effectedcount": 1
+        },
+	{
+          "townshipname" : "ကျောက်ဆည်",
+          "effectedcount": 1
+        },
+	{
+        "townshipname" : "ငါန်းဇွန်",
+        "effectedcount": 2
+        },
+	{
+        "townshipname" : "စဉ့်ကူး",
+        "effectedcount": 1
+        }
+	]
+	},
+	
+	{  
      "date":"28-12-2020",
     "township" :[
 	    {
