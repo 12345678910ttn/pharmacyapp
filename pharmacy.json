@@ -4,7 +4,10 @@
     "name":" GOOD CHOICE PHARMACY",
     "phoneno" : "09444005151",
     "address" : "၂၇ လမ်း၊၆၃ လမ်းနှင့် ၆၄ လမ်းကြား၊မန္တလေးမြို့။",
-    "image" : "goodchoice.jpg" 
+    "image" : "goodchoice.jpg" ,
+"deliverystatus" : "yes"
+
+
   
 },
     {
@@ -12,7 +15,8 @@
     "name":"မြင့်မိုရ်ဦး",
     "phoneno" : "092017102,024066738",
     "address" : "လမ်း၃၀နှင့်၇၅လမ်းထောင့်၊မန္တလေးမြို့။ ",
-    "image" : "mmo.jpg" 
+    "image" : "mmo.jpg" ,
+        "deliverystatus" : "no"
   
 },
     {
@@ -20,7 +24,8 @@
     "name":"ကိုဟန်တင်+ မတင်တင်အောင်",
     "phoneno" : "02-4031296, 02-4067444, 09-400900121",
     "address" : "ဆိုင်(၁)၊ (၇၃x၇၄)လမ်းကြား၊ ၂၇လမ်း။ မန္တလေးမြို့။",
-    "image" : "ht.jpg" 
+    "image" : "ht.jpg" ,
+        "deliverystatus" : "yes"
   
 },
     {
@@ -28,7 +33,8 @@
     "name":"သုံးဆယ်ဆေးဆိုင်",
     "phoneno" : "09-400900131",
     "address" : "ဆိုင်(၂)၊ ၇၅လမ်း၊ (၂၈x၂၉)လမ်းကြား၊ မန္တလေးမြို့။",
-    "image" : "ht.jpg" 
+    "image" : "ht.jpg" ,
+        "deliverystatus" : "yes"
   
 },
     {
@@ -36,7 +42,8 @@
     "name":"ကိုဟန်တင်+ မတင်တင်အောင်",
     "phoneno" : "09-400900151",
     "address" : "ဆိုင်(၃)၊ ၁၀၅ လမ်း၊ (၆၃x၆၄) လမ်းကြား၊ မန္တလေးမြို့။",
-    "image" : "ht.jpg" 
+    "image" : "ht.jpg" ,
+        "deliverystatus" : "yes"
   
 },
      {
@@ -44,7 +51,8 @@
     "name":"အေးကို၊အေးချို",
     "phoneno" : "09785118803",
     "address" : "၃၂ လမ်း၊၈၃ လမ်းနှင့်၈၄ လမ်းကြား၊မန္တလေးမြို့။",
-    "image" : "ayekoayecho.jpg" 
+    "image" : "ayekoayecho.jpg" ,
+         "deliverystatus" : "no"
   
 },
 {
@@ -52,7 +60,8 @@
     "name":"ISO Pharmacy(Shop-2)",
     "phoneno" : "09788150150,09789150150",
     "address" : "အမှတ်(၄၇/၁) ၂၇ လမ်း၊၇၂ လမ်းနှင့်၇၃ လမ်းကြား၊မန္တလေးမြို့။",
-    "image" : "Iso.jpg" 
+    "image" : "Iso.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -60,7 +69,8 @@
     "name":"ISO Pharmacy(Shop-1)",
     "phoneno" : "09793335538,09793535538",
     "address" : "အမှတ်(၂၄၁/၁) ၃၁ လမ်း၊၈၃ လမ်းနှင့်၈၄ လမ်းကြား၊မန္တလေးမြို့။",
-    "image" : "Iso.jpg" 
+    "image" : "Iso.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -68,7 +78,8 @@
     "name":"Win Med Pharmacy(Shop-1)",
     "phoneno" : "09402000973",
     "address" : "အမှတ်(တ၃/၅၄) ၆၂ လမ်း၊၁၀၂ (A) လမ်းနှင့်၁၀၃ လမ်းကြား၊ကုတင်(၃၀၀)သင်ကြားရေးဆေးရုံကြီးမျက်နှာချင်းဆိုင်၊ချမ်းမြသာစည်မြို့နယ်၊မန္တလေးမြို့။",
-    "image" : "winmed.jpg" 
+    "image" : "winmed.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -76,7 +87,8 @@
     "name":"Win Med Pharmacy(Shop-2)",
     "phoneno" : "09269000973",
     "address" : "၅၆ လမ်း၊၁၀၇ လမ်းနှင့်၁၀၈ လမ်းကြား၊အောင်သာယာစျေးတောင်ဘက်၊ချမ်းမြသာစည်မြို့နယ်၊မန္တလေးမြို့။",
-    "image" : "winmed.jpg" 
+    "image" : "winmed.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -84,7 +96,8 @@
     "name":"Win Med Pharmacy(Shop-3)",
     "phoneno" : "09408888973",
     "address" : "အမှတ်(၁/၁) ၆၆ လမ်းနှင့် ၂၇ လမ်းထောင့်၊ချမ်းအေးသာစံမြို့နယ်၊မန္တလေးမြို့။",
-    "image" : "winmed.jpg" 
+    "image" : "winmed.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -92,7 +105,8 @@
     "name":"သစ္စာနီ(ဆိုင်-၁)",
     "phoneno" : "09798802198",
     "address" : "၅၆ လမ်း၊အေးသုခလမ်းနှင့် ရတနာလမ်းကြား၊(ဆ)ရုံးရှေ့၊ပြည်ကြီးတံခွန်မြို့နယ်၊မန္တလေးမြို့။",
-    "image" : "thitsarni.jpg" 
+    "image" : "thitsarni.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -100,7 +114,8 @@
     "name":"သစ္စာနီ(ဆိုင်-၂)",
     "phoneno" : "09790130126,09979205678",
     "address" : "၆၃ လမ်းနှင့် ၁၃၃ လမ်းထောင့်၊မန္တလေးမြို့။",
-    "image" : "thitsarni.jpg" 
+    "image" : "thitsarni.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -108,7 +123,8 @@
     "name":"အေးကြူ ဆေးဆိုင်",
     "phoneno" : "09798558330,09974444204,09773136768",
     "address" : "အမှတ်(၉၉) ၃၅ လမ်း၊ ၇၄ လမ်းနှင့် ၇၅ လမ်းကြား၊မန္တလေးမြို့။",
-    "image" : "ayekyu.jpg" 
+    "image" : "ayekyu.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -116,7 +132,8 @@
     "name":"မင်းထက် ဆေးဆိုင်",
     "phoneno" : "0991008511,092050425,09962050425",
     "address" : "၇၆ လမ်း(စည်သာလမ်း)၊ ၇ လမ်းနှင့် ၈ လမ်းကြား၊မိဘစျေးအနီး၊မြောက်ပြင်၊မန္တလေးမြို့။",
-    "image" : "minhtet.jpg" 
+    "image" : "minhtet.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -124,7 +141,8 @@
     "name":"မနော်ဟရီ နေလ (ဆိုင်-၁)",
     "phoneno" : "09965335339",
     "address" : "မနော်ဟရီလမ်း၊၆၇ လမ်းနှင့် ၆၈ လမ်းကြား၊မန္တလေးမြို့။",
-    "image" : "manawhayiNayla.png" 
+    "image" : "manawhayiNayla.png" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -132,7 +150,8 @@
     "name":"မနော်ဟရီ နေလ (ဆိုင်-၂)",
     "phoneno" : "09965335339",
     "address" : "အမှတ်(၂၈) လမ်းသွယ် ၁၅၊ မြ၀တီမင်းကြီးလမ်း၊မန္တလေးမြို့။",
-    "image" : "manawhayiNayla.png" 
+    "image" : "manawhayiNayla.png" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -140,7 +159,8 @@
     "name":"ရွှေမန္တလေး",
     "phoneno" : "09797171217",
     "address" : "၁၀၁ လမ်း(မနော်ဟရီလမ်း)၊ ၆၅ လမ်းနှင့် ၆၆ လမ်းကြား၊မန္တလေးမြို့။",
-    "image" : "shwemandalay.png" 
+    "image" : "shwemandalay.png" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -148,7 +168,8 @@
     "name":"Family Plus Pharmacy",
     "phoneno" : "09777070099",
     "address" : "အမှတ်(၂၃၉) ၇၆ လမ်း၊ ၃၂ လမ်းနှင့် ၃၃ လမ်းကြား၊ချမ်းအေးသာစံမြို့နယ်၊မန္တလေးမြို့။",
-    "image" : "familyplus.jpg" 
+    "image" : "familyplus.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -156,7 +177,8 @@
     "name":"မင်း ဆေးဆိုင်",
     "phoneno" : "09444462131",
     "address" : "၆၃ လမ်း၊ ၂၀ လမ်းနှင့် ၂၁ လမ်းကြား၊၊မန္တလေးမြို့။",
-    "image" : "min.jpg" 
+    "image" : "min.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -164,7 +186,8 @@
     "name":"ဇီ၀က ဆေးဆိုင်",
     "phoneno" : "092100129",
     "address" : "၃၀ လမ်း၊ ၇၆ လမ်းနှင့် ၇၇ လမ်းကြား၊၊မန္တလေးမြို့။",
-    "image" : "jivika.jpg" 
+    "image" : "jivika.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -172,7 +195,8 @@
     "name":"ဟိန်း ဆေးဆိုင်(၁)",
     "phoneno" : "095145872,09791239111",
     "address" : "လမ်း(၃၀) (၇၆x၇၇)လမ်းကြား ပြည်သူ့ဆေးရုံကြီး အရှေ့၊ချမ်းအေးသာဇံမြို့နယ် ၊ မန္တလေးမြို့။",
-    "image" : "heinpharmacy.png" 
+    "image" : "heinpharmacy.png" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -180,7 +204,8 @@
     "name":"ဟိန်း ဆေးဆိုင်(၂)",
     "phoneno" : "09791239222",
     "address" : "လမ်း(၃၀)၊(၇၀x၇၁)လမ်းကြား ၊ ဗထူးအားကစားကွင်း နှင့် မျက်နှာချင်းဆိုင် ချမ်းအေးသာဇံ၊မန္တလေးမြို့။",
-    "image" : "heinpharmacy.png" 
+    "image" : "heinpharmacy.png" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -188,7 +213,8 @@
     "name":"ဟိန်း ဆေးဆိုင်(၃)",
     "phoneno" : "09791239333",
     "address" : "မင်ကြီးရန်နောင်လမ်း ၊(၅၈x၅၉)လမ်းကြား၊ အင်းခရုဘုရား အနီး ၊ ပြည်ကြီးတံခွန် မြို့နယ် ၊ မန္တလေးမြို့။",
-    "image" : "heinpharmacy.png" 
+    "image" : "heinpharmacy.png" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -196,7 +222,8 @@
     "name":"KS Pharmacy",
     "phoneno" : "09965055840, 0995802109",
     "address" : "အမှတ် (၅၁၈), ၈၁ လမ်း၊ ၃၅လမ်း နှင့် ၃၆လမ်းကြား၊ မန္တလေးမြို့။",
-    "image" : "KS.jpg" 
+    "image" : "KS.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -204,7 +231,8 @@
     "name":"၀င်း ဆေးဆိုင်",
     "phoneno" : "09696960607",
     "address" : "လမ်း ၃၀၊၇၆လမ်းနှင့် ၇၇လမ်းကြား၊ မန္တလေးမြို့။",
-    "image" : "winpharmacy.jpg" 
+    "image" : "winpharmacy.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -212,7 +240,8 @@
     "name":"ရွှေနေ့စဉ်",
     "phoneno" : "09",
     "address" : "အမှတ် (က၂/၆), မနော်ဟရီလမ်း၊ ၆၉လမ်း နှင့် ၇၁လမ်းကြား၊ချမ်းမြသာစည်မြို့နယ်၊ မန္တလေးမြို့။",
-    "image" : "shwedaily.jpg" 
+    "image" : "shwedaily.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -220,7 +249,8 @@
     "name":"ငွေကြယ်",
     "phoneno" : "09268729939",
     "address" : " ၆၃ လမ်း၊ ၁၀၃ လမ်း နှင့် ၁၀၃(A)လမ်းကြား၊ မန္တလေးမြို့။",
-    "image" : "ngwekyal.jpg" 
+    "image" : "ngwekyal.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -228,7 +258,8 @@
     "name":"Royal Pharmacy",
     "phoneno" : "09778654264,09779391306,09256179207",
     "address" : " အမှတ် (၃၃၈) ၊၈၂ လမ်း၊ ၂၉ x ၃၀ လမ်းကြား ၊ချမ်းအေးသာစံ မြို့နယ်၊ မန္တလေးမြို့။",
-    "image" : "royal.jpg" 
+    "image" : "royal.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -236,7 +267,8 @@
     "name":"Hello Pharmacy",
     "phoneno" : "09256036250,09954040034",
     "address" : " ၃၁ လမ်း၊ ၈၁ x ၈၂ လမ်းကြား ၊မန္တလေးမြို့။",
-    "image" : "hello.jpg" 
+    "image" : "hello.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -244,7 +276,8 @@
     "name":"ရွှေ",
     "phoneno" : "09402663217",
     "address" : " ၃၀ လမ်း၊ ၇၁ x ၇၂ လမ်းကြား၊ချမ်းအေးသာစံမြို့နယ် ၊မန္တလေးမြို့။",
-    "image" : "shwe.jpg" 
+    "image" : "shwe.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -252,7 +285,8 @@
     "name":"ဇမ္ဗူလင်းဆေးဆိုင်",
     "phoneno" : "092005406 ",
     "address" : "၆၂ လမ်း၊ ၁၀၇ x ၁၀၈ လမ်းကြား၊ချမ်းမြသာစည်မြို့နယ်၊ မန္တလေးမြို့။",
-    "image" : "zabulin.jpg" 
+    "image" : "zabulin.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -260,7 +294,8 @@
     "name":"၀င်း၀င်း ဆေးဆိုင်",
     "phoneno" : "09767611003,09265677165",
     "address" : "၃၄ လမ်း၊ ၈၂ x ၈၃ လမ်းကြား၊ မန္တလေးမြို့။",
-    "image" : "winwin.jpg" 
+    "image" : "winwin.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -268,7 +303,8 @@
     "name":"Sun Pharmacy",
     "phoneno" : "09786177721",
     "address" : "၃၀ လမ်း၊ ၆၇ x ၆၈လမ်းကြား၊ မန္တလေးမြို့။",
-    "image" : "sun.jpg" 
+    "image" : "sun.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -276,7 +312,8 @@
     "name":"Pandora Pharmacy",
     "phoneno" : "09960377770",
     "address" : "၅၈ လမ်း၊ ၃၅ x ၃၆ လမ်းကြား၊ မန္တလေးမြို့။",
-    "image" : "pandora.jpg" 
+    "image" : "pandora.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -284,7 +321,8 @@
     "name":"Mingalar Pharmacy",
     "phoneno" : "09444008026",
     "address" : "၅၅ လမ်းနှင့် မနော်ဟရီလမ်းထောင့်၊ မန္တလေးမြို့။",
-    "image" : "mingalar.jpg" 
+    "image" : "mingalar.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -292,7 +330,8 @@
     "name":"ဇော်ထက် ဆေးနှင့်ဆေးပစ္စည်း",
     "phoneno" : "09790180838,0943071559,092002798",
     "address" : "၂၆ဘီလမ်း၊ ၈၈ လမ်းနှင့် ၈၉ လမ်းကြား၊ မန္တလေးမြို့။",
-    "image" : "zawhtet.jpg" 
+    "image" : "zawhtet.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -300,7 +339,8 @@
     "name":"အေးချမ်းမြေ့",
     "phoneno" : "09968309222",
     "address" : "မင်းကြီးရန်နောင်လမ်း၊ ၅၂ x ၅၃ လမ်းကြား၊ သင်ပန်းကုန်း၊ မန္တလေးမြို့။",
-    "image" : "ayechanmyae.jpg" 
+    "image" : "ayechanmyae.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -308,7 +348,8 @@
     "name":"ကိုမျိုးချစ်",
     "phoneno" : "09",
     "address" : "၅၄ လမ်း၊၁၀၈ လမ်း ၁၀၉ လမ်းကြား၊မြို့သစ်၊မန္တလေးမြို့။",
-    "image" : "komyochit.jpg" 
+    "image" : "komyochit.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -316,7 +357,8 @@
     "name":"အောင်သစ္စာ",
     "phoneno" : "09253155070",
     "address" : "၇၆လမ်း(စည်သာလမ်း)၊၇x၈ လမ်းကြား(မြောက်ပြင်)၊မန္တလေးမြို့။",
-    "image" : "aungthitsar.jpg" 
+    "image" : "aungthitsar.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -324,7 +366,8 @@
     "name":"ရွှေဗဟို",
     "phoneno" : "09444043428,09402696077",
     "address" : "မနော်ဟရီလမ်း၊၅၆ x ၅၇ လမ်းကြား၊မန္တလေးမြို့။",
-    "image" : "shwebaho.jpg" 
+    "image" : "shwebaho.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -332,7 +375,8 @@
     "name":"ရွှန်း",
     "phoneno" : "09969777256",
     "address" : "မင်းရဲကျော်စွာလမ်း၊၅၆ x ၅၇ လမ်းကြား၊မန္တလေးမြို့။",
-    "image" : "shun.jpg" 
+    "image" : "shun.jpg" ,
+    "deliverystatus" : "no"
   
 },
 {
@@ -344,7 +388,8 @@
 
     "address" : "လမ်း၃၀၊ ၇၄ လမ်းနှင့်၇၅လမ်းကြား၊မန္တလေးမြို့။ ",
 
-  "image" : "mmo.jpg" 
+  "image" : "mmo.jpg" ,
+    "deliverystatus" : "no"
  
  
 },
@@ -357,7 +402,8 @@
 
     "address" : "၈၄ လမ်းနှင့် ၄၁ လမ်းထောင့်၊မန္တလေးမြို့။ ",
 
-  "image" : "mmo.jpg" 
+  "image" : "mmo.jpg" ,
+    "deliverystatus" : "no"
  
  
 },
@@ -370,7 +416,8 @@
 
     "address" : "လမ်း၃၀ နှင့် ၇၇ လမ်းထောင့်၊မန္တလေးမြို့။ ",
 
-  "image" : "mmo.jpg" 
+  "image" : "mmo.jpg" ,
+    "deliverystatus" : "no"
  
  
 },
@@ -383,7 +430,8 @@
 
     "address" : "လမ်း၃၀၊ ၇၄ လမ်းနှင့်၇၅လမ်းကြား၊မန္တလေးမြို့။ ",
 
-  "image" : "mmo.jpg" 
+  "image" : "mmo.jpg" ,
+    "deliverystatus" : "no"
  
  
 },
@@ -395,7 +443,8 @@
   "phoneno" : "024030176,024024394,09782015516",
 
     "address" : "၈၄ လမ်း၊ ၃၀ လမ်း နှင့် ၃၁ လမ်းကြား ချမ်းအေးသာစံမြို့နယ်၊ မန္တလေးမြို့။",
-  "image" : "perl&ruby.jpg" 
+  "image" : "perl&ruby.jpg" ,
+     "deliverystatus" : "no"
  
  
 },
@@ -408,7 +457,8 @@
 
     "address" : "ပုသိမ်ကြီး ရေထွက်လမ်းမကြီး၊ဗဟိုမြို့မစာသင်တိုက်မျက်နှာချင်းဆိုင်၊မန္တလေးမြို့။",
 
-  "image" : "htetmyat.jpg" 
+  "image" : "htetmyat.jpg" ,
+    "deliverystatus" : "no"
  
  
 },
@@ -421,7 +471,8 @@
 
     "address" : "၁၂ လမ်း၊၈၀ x ၈၁ လမ်းကြား၊အောင်မြေသာဇံမြို့နယ်၊မန္တလေးမြို့။",
 
-  "image" : "shwenagar.jpg" 
+  "image" : "shwenagar.jpg" ,
+    "deliverystatus" : "no"
  
  
 },
@@ -434,7 +485,8 @@
 
     "address" : "အမှတ်(ပပ-၈/၃၆)၊သခင်ဖိုးလှကြီးလမ်း၊ ၆၃ x ၆၄ လမ်းကြား၊စက်မှု(၁)(စျ)ရပ်ကွက်၊မန္တလေးမြို့။",
 
-  "image" : "pwintsan.jpg" 
+  "image" : "pwintsan.jpg" ,
+    "deliverystatus" : "no"
  
  
 },
@@ -447,7 +499,8 @@
 
     "address" : "၃၂ လမ်း၊၆၂  × ၆၃ လမ်းကြား၊မန္တလေးမြို့။",
 
-  "image" : "sns.jpg" 
+  "image" : "sns.jpg" ,
+    "deliverystatus" : "no"
  
  
 },
@@ -460,7 +513,8 @@
 
     "address" : "၄၅ လမ်း၊၈၃ လမ်း နှင့်၈၄ လမ်းကြား၊ မန္တလေးမြို့။",
 
-  "image" : "ngwesinkyal.jpg" 
+  "image" : "ngwesinkyal.jpg" ,
+     "deliverystatus" : "no"
  
  
 },
@@ -473,7 +527,8 @@
 
     "address" : "၄၇ လမ်းနှင့် ၄၈ လမ်းကြား၊၁၁၇ (C)လမ်း၊မမ(၁၅)တိုက်(၁၄)မြရည်နန္ဒာအိမ်ယာ၊ မန္တလေးမြို့။",
 
-  "image" : "myinttashin.jpg" 
+  "image" : "myinttashin.jpg" ,
+    "deliverystatus" : "no"
  
  
 }
